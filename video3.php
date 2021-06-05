@@ -25,6 +25,7 @@
             margin:10px;
             }
       video{
+        background-color:black;
         width:75%;
         height: 75%;
       }

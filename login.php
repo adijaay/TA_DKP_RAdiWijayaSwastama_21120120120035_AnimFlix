@@ -42,7 +42,7 @@
 			<input id="nama" name="nama" autocomplete="off" placeholder="isi nama" required/>
 			</br></br>
 			<label for="passcode">Passcode: </label>
-			<input id="passcode" type="text" name="passcode" autocomplete="off" placeholder="1234" required/>
+			<input id="passcode" type="number" name="passcode" autocomplete="off" placeholder="1234" required/>
 			</br></br>
 			<input type="submit" name="submit" value="MASOOK"/>
 		</form>
